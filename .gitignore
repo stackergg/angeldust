@@ -1,0 +1,12 @@
+*.ipch
+*.opendb
+*.db
+*.enc
+*.idb
+*.tlog
+*.lastbuildstate
+
+.vs
+output
+intermediates
+*.vcxproj
